@@ -1,0 +1,11 @@
+CREATE TABLE Photo (
+	PhotoId INT NOT NULL IDENTITY(1,1),
+	ApplicationUserId INT NOT NULL,
+	PublicId VARCHAR(50) NOT NULL,
+	ImageUrl VARCHAR(250) NOT NULL,
+	[Description] VARCHAR(30) NOT NULL,
+	PublishDate DATETIME NOT NULL DEFAULT GETDATE(),
+	UpdateDate DATETIME NOT NULL DEFAULT GETDATE(),
+	PRIMARY KEY(PhotoId),
+	FOREIGN KEY(ApplicationUserId) REFERENCES ApplicationUser(ApplicationUserId)
+)

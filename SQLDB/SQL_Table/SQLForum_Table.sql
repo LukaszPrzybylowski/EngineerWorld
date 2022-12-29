@@ -1,0 +1,13 @@
+	CREATE TABLE Forum(
+		ForumId	INT NOT NULL IDENTITY(1,1),
+		ApplicationUserID INT NOT NULL,
+		PhotoId INT NULL,
+		Title VARCHAR(50) NOT NULL,
+		Content VARCHAR(MAX) NOT NULL,
+		PublishDate DATETIME NOT NULL DEFAULT GETDATE(),
+		UpdateDate DATETIME NOT NULL DEFAULT GETDATE(),
+		ActiveInd BIT NOT NULL DEFAULT CONVERT(BIT,1),
+		PRIMARY KEY (ForumId),
+		FOREIGN KEY (ApplicationUserId) REFERENCES ApplicationUser(ApplicationUserId),
+		FOREIGN KEY (PhotoId) REFERENCES Photo(PhotoId)
+	)

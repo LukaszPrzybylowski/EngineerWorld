@@ -1,0 +1,12 @@
+C:\Users\lexm1\OneDrive\Pulpit\EngineerWorld-Project\EngineerWorld\EngineerWorld\EngineerWorld.Model\bin\Debug\net7.0\EngineerWorld.Model.deps.json
+C:\Users\lexm1\OneDrive\Pulpit\EngineerWorld-Project\EngineerWorld\EngineerWorld\EngineerWorld.Model\bin\Debug\net7.0\EngineerWorld.Model.dll
+C:\Users\lexm1\OneDrive\Pulpit\EngineerWorld-Project\EngineerWorld\EngineerWorld\EngineerWorld.Model\bin\Debug\net7.0\EngineerWorld.Model.pdb
+C:\Users\lexm1\OneDrive\Pulpit\EngineerWorld-Project\EngineerWorld\EngineerWorld\EngineerWorld.Model\obj\Debug\net7.0\EngineerWorld.Model.csproj.AssemblyReference.cache
+C:\Users\lexm1\OneDrive\Pulpit\EngineerWorld-Project\EngineerWorld\EngineerWorld\EngineerWorld.Model\obj\Debug\net7.0\EngineerWorld.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lexm1\OneDrive\Pulpit\EngineerWorld-Project\EngineerWorld\EngineerWorld\EngineerWorld.Model\obj\Debug\net7.0\EngineerWorld.Model.AssemblyInfoInputs.cache
+C:\Users\lexm1\OneDrive\Pulpit\EngineerWorld-Project\EngineerWorld\EngineerWorld\EngineerWorld.Model\obj\Debug\net7.0\EngineerWorld.Model.AssemblyInfo.cs
+C:\Users\lexm1\OneDrive\Pulpit\EngineerWorld-Project\EngineerWorld\EngineerWorld\EngineerWorld.Model\obj\Debug\net7.0\EngineerWorld.Model.csproj.CoreCompileInputs.cache
+C:\Users\lexm1\OneDrive\Pulpit\EngineerWorld-Project\EngineerWorld\EngineerWorld\EngineerWorld.Model\obj\Debug\net7.0\EngineerWorld.Model.dll
+C:\Users\lexm1\OneDrive\Pulpit\EngineerWorld-Project\EngineerWorld\EngineerWorld\EngineerWorld.Model\obj\Debug\net7.0\refint\EngineerWorld.Model.dll
+C:\Users\lexm1\OneDrive\Pulpit\EngineerWorld-Project\EngineerWorld\EngineerWorld\EngineerWorld.Model\obj\Debug\net7.0\EngineerWorld.Model.pdb
+C:\Users\lexm1\OneDrive\Pulpit\EngineerWorld-Project\EngineerWorld\EngineerWorld\EngineerWorld.Model\obj\Debug\net7.0\ref\EngineerWorld.Model.dll

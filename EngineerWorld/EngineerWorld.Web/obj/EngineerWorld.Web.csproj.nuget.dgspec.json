@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lexm1\\OneDrive\\Pulpit\\EngineerWorld\\EngineerWorld\\EngineerWorld.Web\\EngineerWorld.Web.csproj": {}
+    "C:\\Users\\lexm1\\OneDrive\\Pulpit\\EngineerWorld-Project\\EngineerWorld\\EngineerWorld\\EngineerWorld.Web\\EngineerWorld.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lexm1\\OneDrive\\Pulpit\\EngineerWorld\\EngineerWorld\\EngineerWorld.Web\\EngineerWorld.Web.csproj": {
+    "C:\\Users\\lexm1\\OneDrive\\Pulpit\\EngineerWorld-Project\\EngineerWorld\\EngineerWorld\\EngineerWorld.Web\\EngineerWorld.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lexm1\\OneDrive\\Pulpit\\EngineerWorld\\EngineerWorld\\EngineerWorld.Web\\EngineerWorld.Web.csproj",
+        "projectUniqueName": "C:\\Users\\lexm1\\OneDrive\\Pulpit\\EngineerWorld-Project\\EngineerWorld\\EngineerWorld\\EngineerWorld.Web\\EngineerWorld.Web.csproj",
         "projectName": "EngineerWorld.Web",
-        "projectPath": "C:\\Users\\lexm1\\OneDrive\\Pulpit\\EngineerWorld\\EngineerWorld\\EngineerWorld.Web\\EngineerWorld.Web.csproj",
+        "projectPath": "C:\\Users\\lexm1\\OneDrive\\Pulpit\\EngineerWorld-Project\\EngineerWorld\\EngineerWorld\\EngineerWorld.Web\\EngineerWorld.Web.csproj",
         "packagesPath": "C:\\Users\\lexm1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lexm1\\OneDrive\\Pulpit\\EngineerWorld\\EngineerWorld\\EngineerWorld.Web\\obj\\",
+        "outputPath": "C:\\Users\\lexm1\\OneDrive\\Pulpit\\EngineerWorld-Project\\EngineerWorld\\EngineerWorld\\EngineerWorld.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -25,6 +25,7 @@ namespace EngineerWorld.Repository
             cancellationToken.ThrowIfCancellationRequested();
 
             var dataTable = new DataTable();
+            dataTable.Columns.Add("UserRole", typeof(string));
             dataTable.Columns.Add("Username", typeof(string));
             dataTable.Columns.Add("NormalizedUsername", typeof(string));
             dataTable.Columns.Add("Email", typeof(string));
@@ -36,6 +37,7 @@ namespace EngineerWorld.Repository
             dataTable.Columns.Add("PasswordHash", typeof(string));
 
             dataTable.Rows.Add(
+                user.UserRole,
                 user.Username,
                 user.NormalizedUsername,
                 user.Email,

@@ -10,3 +10,15 @@ C:\Users\lexm1\OneDrive\Pulpit\EngineerWorld-Project\EngineerWorld\EngineerWorld
 C:\Users\lexm1\OneDrive\Pulpit\EngineerWorld-Project\EngineerWorld\EngineerWorld\EngineerWorld.Model\obj\Debug\net7.0\refint\EngineerWorld.Model.dll
 C:\Users\lexm1\OneDrive\Pulpit\EngineerWorld-Project\EngineerWorld\EngineerWorld\EngineerWorld.Model\obj\Debug\net7.0\EngineerWorld.Model.pdb
 C:\Users\lexm1\OneDrive\Pulpit\EngineerWorld-Project\EngineerWorld\EngineerWorld\EngineerWorld.Model\obj\Debug\net7.0\ref\EngineerWorld.Model.dll
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Model\bin\Debug\net7.0\EngineerWorld.Model.deps.json
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Model\bin\Debug\net7.0\EngineerWorld.Model.dll
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Model\bin\Debug\net7.0\EngineerWorld.Model.pdb
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Model\obj\Debug\net7.0\EngineerWorld.Model.csproj.AssemblyReference.cache
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Model\obj\Debug\net7.0\EngineerWorld.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Model\obj\Debug\net7.0\EngineerWorld.Model.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Model\obj\Debug\net7.0\EngineerWorld.Model.AssemblyInfo.cs
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Model\obj\Debug\net7.0\EngineerWorld.Model.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Model\obj\Debug\net7.0\EngineerWorld.Model.dll
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Model\obj\Debug\net7.0\refint\EngineerWorld.Model.dll
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Model\obj\Debug\net7.0\EngineerWorld.Model.pdb
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Model\obj\Debug\net7.0\ref\EngineerWorld.Model.dll

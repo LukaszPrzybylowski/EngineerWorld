@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lexm1\\OneDrive\\Pulpit\\EngineerWorld-Project\\EngineerWorld\\EngineerWorld\\EngineerWorld.Repository\\EngineerWorld.Repository.csproj": {}
+    "C:\\Users\\lukas\\Desktop\\EngineerWorld-Orig\\EngineerWorld\\EngineerWorld\\EngineerWorld.Repository\\EngineerWorld.Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lexm1\\OneDrive\\Pulpit\\EngineerWorld-Project\\EngineerWorld\\EngineerWorld\\EngineerWorld.Model\\EngineerWorld.Model.csproj": {
+    "C:\\Users\\lukas\\Desktop\\EngineerWorld-Orig\\EngineerWorld\\EngineerWorld\\EngineerWorld.Model\\EngineerWorld.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lexm1\\OneDrive\\Pulpit\\EngineerWorld-Project\\EngineerWorld\\EngineerWorld\\EngineerWorld.Model\\EngineerWorld.Model.csproj",
+        "projectUniqueName": "C:\\Users\\lukas\\Desktop\\EngineerWorld-Orig\\EngineerWorld\\EngineerWorld\\EngineerWorld.Model\\EngineerWorld.Model.csproj",
         "projectName": "EngineerWorld.Model",
-        "projectPath": "C:\\Users\\lexm1\\OneDrive\\Pulpit\\EngineerWorld-Project\\EngineerWorld\\EngineerWorld\\EngineerWorld.Model\\EngineerWorld.Model.csproj",
-        "packagesPath": "C:\\Users\\lexm1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lexm1\\OneDrive\\Pulpit\\EngineerWorld-Project\\EngineerWorld\\EngineerWorld\\EngineerWorld.Model\\obj\\",
+        "projectPath": "C:\\Users\\lukas\\Desktop\\EngineerWorld-Orig\\EngineerWorld\\EngineerWorld\\EngineerWorld.Model\\EngineerWorld.Model.csproj",
+        "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lukas\\Desktop\\EngineerWorld-Orig\\EngineerWorld\\EngineerWorld\\EngineerWorld.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\lexm1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,6 +45,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.20.0, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.2, )"
@@ -66,24 +70,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lexm1\\OneDrive\\Pulpit\\EngineerWorld-Project\\EngineerWorld\\EngineerWorld\\EngineerWorld.Repository\\EngineerWorld.Repository.csproj": {
+    "C:\\Users\\lukas\\Desktop\\EngineerWorld-Orig\\EngineerWorld\\EngineerWorld\\EngineerWorld.Repository\\EngineerWorld.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lexm1\\OneDrive\\Pulpit\\EngineerWorld-Project\\EngineerWorld\\EngineerWorld\\EngineerWorld.Repository\\EngineerWorld.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\lukas\\Desktop\\EngineerWorld-Orig\\EngineerWorld\\EngineerWorld\\EngineerWorld.Repository\\EngineerWorld.Repository.csproj",
         "projectName": "EngineerWorld.Repository",
-        "projectPath": "C:\\Users\\lexm1\\OneDrive\\Pulpit\\EngineerWorld-Project\\EngineerWorld\\EngineerWorld\\EngineerWorld.Repository\\EngineerWorld.Repository.csproj",
-        "packagesPath": "C:\\Users\\lexm1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lexm1\\OneDrive\\Pulpit\\EngineerWorld-Project\\EngineerWorld\\EngineerWorld\\EngineerWorld.Repository\\obj\\",
+        "projectPath": "C:\\Users\\lukas\\Desktop\\EngineerWorld-Orig\\EngineerWorld\\EngineerWorld\\EngineerWorld.Repository\\EngineerWorld.Repository.csproj",
+        "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lukas\\Desktop\\EngineerWorld-Orig\\EngineerWorld\\EngineerWorld\\EngineerWorld.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\lexm1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -99,8 +103,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\lexm1\\OneDrive\\Pulpit\\EngineerWorld-Project\\EngineerWorld\\EngineerWorld\\EngineerWorld.Model\\EngineerWorld.Model.csproj": {
-                "projectPath": "C:\\Users\\lexm1\\OneDrive\\Pulpit\\EngineerWorld-Project\\EngineerWorld\\EngineerWorld\\EngineerWorld.Model\\EngineerWorld.Model.csproj"
+              "C:\\Users\\lukas\\Desktop\\EngineerWorld-Orig\\EngineerWorld\\EngineerWorld\\EngineerWorld.Model\\EngineerWorld.Model.csproj": {
+                "projectPath": "C:\\Users\\lukas\\Desktop\\EngineerWorld-Orig\\EngineerWorld\\EngineerWorld\\EngineerWorld.Model\\EngineerWorld.Model.csproj"
               }
             }
           }
@@ -115,6 +119,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.20.0, )"
+            },
             "Dapper": {
               "target": "Package",
               "version": "[2.0.123, )"
@@ -148,7 +156,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

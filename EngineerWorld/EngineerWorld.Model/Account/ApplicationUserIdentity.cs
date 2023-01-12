@@ -9,6 +9,8 @@ namespace EngineerWorld.Model.Account
     public class ApplicationUserIdentity
     {
         public int ApplicationUserId { get; set; }
+
+        public string UserRole { get; set; }
         public string Username { get; set; }
         public string NormalizedUsername { get; set; }
         public string Email { get; set; }

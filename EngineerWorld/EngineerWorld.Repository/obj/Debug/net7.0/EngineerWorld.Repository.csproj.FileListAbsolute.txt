@@ -1,0 +1,15 @@
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Repository\bin\Debug\net7.0\EngineerWorld.Repository.deps.json
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Repository\bin\Debug\net7.0\EngineerWorld.Repository.dll
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Repository\bin\Debug\net7.0\EngineerWorld.Repository.pdb
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Repository\bin\Debug\net7.0\EngineerWorld.Model.dll
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Repository\bin\Debug\net7.0\EngineerWorld.Model.pdb
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Repository\obj\Debug\net7.0\EngineerWorld.Repository.csproj.AssemblyReference.cache
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Repository\obj\Debug\net7.0\EngineerWorld.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Repository\obj\Debug\net7.0\EngineerWorld.Repository.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Repository\obj\Debug\net7.0\EngineerWorld.Repository.AssemblyInfo.cs
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Repository\obj\Debug\net7.0\EngineerWorld.Repository.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Repository\obj\Debug\net7.0\EngineerWorld.Repository.csproj.CopyComplete
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Repository\obj\Debug\net7.0\EngineerWorld.Repository.dll
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Repository\obj\Debug\net7.0\refint\EngineerWorld.Repository.dll
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Repository\obj\Debug\net7.0\EngineerWorld.Repository.pdb
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Repository\obj\Debug\net7.0\ref\EngineerWorld.Repository.dll

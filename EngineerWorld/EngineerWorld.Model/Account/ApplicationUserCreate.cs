@@ -9,6 +9,11 @@ namespace EngineerWorld.Model.Account
 {
     public class ApplicationUserCreate : ApplicationUserLogin
     {
+        [Required(ErrorMessage = "UserRole is required")]
+        [MinLength(1, ErrorMessage = "Must be at least 1-30 characters")]
+        [MaxLength(30, ErrorMessage = "Must be at least 1-30 characters")]
+        public string UserRole { get; set; }
+
         [Required(ErrorMessage = "Fullname is required")]
         [MinLength(1, ErrorMessage = "Must be at least 1-30 characters")]
         [MaxLength(30, ErrorMessage = "Must be at least 1-30 characters")]

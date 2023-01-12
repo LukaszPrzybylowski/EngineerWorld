@@ -1,0 +1,15 @@
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Services\bin\Debug\net7.0\EngineerWorld.Services.deps.json
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Services\bin\Debug\net7.0\EngineerWorld.Services.dll
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Services\bin\Debug\net7.0\EngineerWorld.Services.pdb
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Services\bin\Debug\net7.0\EngineerWorld.Model.dll
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Services\bin\Debug\net7.0\EngineerWorld.Model.pdb
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Services\obj\Debug\net7.0\EngineerWorld.Services.csproj.AssemblyReference.cache
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Services\obj\Debug\net7.0\EngineerWorld.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Services\obj\Debug\net7.0\EngineerWorld.Services.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Services\obj\Debug\net7.0\EngineerWorld.Services.AssemblyInfo.cs
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Services\obj\Debug\net7.0\EngineerWorld.Services.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Services\obj\Debug\net7.0\EngineerWorld.Services.csproj.CopyComplete
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Services\obj\Debug\net7.0\EngineerWorld.Services.dll
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Services\obj\Debug\net7.0\refint\EngineerWorld.Services.dll
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Services\obj\Debug\net7.0\EngineerWorld.Services.pdb
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Services\obj\Debug\net7.0\ref\EngineerWorld.Services.dll

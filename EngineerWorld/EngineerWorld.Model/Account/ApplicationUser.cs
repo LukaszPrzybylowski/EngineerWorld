@@ -8,7 +8,8 @@ namespace EngineerWorld.Model.Account
 {
     public class ApplicationUser
     {
-        public int ApplicationUserId { get; set; }
+        public int ApplicationUserId { get; set; } 
+        public string UserRole { get; set; } 
         public string Username { get; set; }
         public string Fullname { get; set; }
         public string Lastname { get; set; }

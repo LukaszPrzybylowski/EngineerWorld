@@ -1,0 +1,17 @@
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Identity\bin\Debug\net7.0\EngineerWorld.Identity.deps.json
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Identity\bin\Debug\net7.0\EngineerWorld.Identity.dll
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Identity\bin\Debug\net7.0\EngineerWorld.Identity.pdb
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Identity\bin\Debug\net7.0\EngineerWorld.Model.dll
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Identity\bin\Debug\net7.0\EngineerWorld.Repository.dll
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Identity\bin\Debug\net7.0\EngineerWorld.Model.pdb
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Identity\bin\Debug\net7.0\EngineerWorld.Repository.pdb
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Identity\obj\Debug\net7.0\EngineerWorld.Identity.csproj.AssemblyReference.cache
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Identity\obj\Debug\net7.0\EngineerWorld.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Identity\obj\Debug\net7.0\EngineerWorld.Identity.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Identity\obj\Debug\net7.0\EngineerWorld.Identity.AssemblyInfo.cs
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Identity\obj\Debug\net7.0\EngineerWorld.Identity.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Identity\obj\Debug\net7.0\EngineerWorld.Identity.csproj.CopyComplete
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Identity\obj\Debug\net7.0\EngineerWorld.Identity.dll
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Identity\obj\Debug\net7.0\refint\EngineerWorld.Identity.dll
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Identity\obj\Debug\net7.0\EngineerWorld.Identity.pdb
+C:\Users\lukas\Desktop\EngineerWorld-Orig\EngineerWorld\EngineerWorld\EngineerWorld.Identity\obj\Debug\net7.0\ref\EngineerWorld.Identity.dll
